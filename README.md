@@ -1,3 +1,5 @@
+# THIS IS STILL IN BETA, PLS DONT USE IT !!
+
 # Discord.js Moderation Bot
 
 ### For Visual Studio Code Users -  
