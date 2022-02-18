@@ -1,3 +1,5 @@
 exports.PREFIX = "!";
-exports.OWNER_ID = "773324771923853312";
-exports.Owner_Name = "UwUDiscord";
+exports.OWNER_ID = "";
+// if u chage Here Pls Chage it in Owner.json too
+
+exports.Owner_Name = "PlusFlippy";
